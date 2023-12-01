@@ -3,5 +3,7 @@ Implementantion of the neural network architecture described in the paper ([doi.
 The network uses a Bayesian convolutional layer combined with deterministic convolutional and dense layers and a probabilistic output layer.
 The output layer is modelled as a gamma process. For more details, see the paper above and the [Specnet architecture](https://github.com/Valensicv/Specnet) and the associated paper.
 
+For generating the training data sets, see [this repository](https://github.com/ththarkonen/cars-raman-lggp).
+
 # References
 If you find the software useful, please cite ([doi.org/10.48550/arXiv.2310.08055](https://doi.org/10.48550/arXiv.2310.08055)).
