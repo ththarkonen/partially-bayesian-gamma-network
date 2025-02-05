@@ -7,4 +7,4 @@ The output layer is modelled as a gamma process. For more details, see the paper
 For generating the training data sets, see [this repository](https://github.com/ththarkonen/cars-raman-lggp).
 
 # References
-If you find the software useful, please cite ([doi.org/10.48550/arXiv.2310.08055](https://doi.org/10.1039/D3CP04960D)).
+If you find the software useful, please cite ([doi.org/10.1039/D3CP04960D](https://doi.org/10.1039/D3CP04960D)).
